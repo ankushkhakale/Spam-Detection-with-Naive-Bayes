@@ -56,5 +56,3 @@ The model's performance is evaluated using `classification_report`, which provid
 -   Integrate a larger, real-world dataset for training and evaluation.
 -   Explore other vectorization techniques (e.g., Word2Vec, GloVe, BERT embeddings).
 -   Experiment with different classification algorithms (e.g., SVM, Logistic Regression, deep learning models).
--   Implement hyperparameter tuning for improved model performance.
--   Add cross-validation for more robust evaluation.
